@@ -17,7 +17,7 @@ Currently supports configuration for Swift and Solidity languages.
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/CursorConfig.git
+   git clone https://github.com/suddenly1990/CusrorConfig.git
    ```
 2. Navigate to the project directory:
    ```
